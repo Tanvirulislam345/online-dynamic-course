@@ -1,0 +1,18 @@
+.topCourse{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(243, 239, 239);
+}
+.courseHeading{
+    color: red;
+}
+.card{
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 8px;
+}
+.card:hover{
+    border: 2px solid yellow;
+    background-color: black;
+    color: blanchedalmond;
+}
+

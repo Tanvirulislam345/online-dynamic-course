@@ -1,0 +1,13 @@
+.button{
+    width: 100%;
+    background-color: blanchedalmond;
+    border: none;
+    font-weight: bold;
+    padding: 10px;
+}
+.button:hover{
+    background-color: red;
+}
+.small{
+    color: red;
+}

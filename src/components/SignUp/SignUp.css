@@ -1,0 +1,10 @@
+.formButton{
+    padding: 5px 20px;
+    border-radius: 2px;
+    border: 2px solid red;
+}
+.formButton:hover{
+    background-color: tomato;
+    border-radius: 10px;
+    border: 2px solid gainsboro;
+}

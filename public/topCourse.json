@@ -1,0 +1,34 @@
+[
+    {
+        "_id": "615aae10a48b4045cdccb3de",
+        "courseName": "React Crash Course",
+        "authorName": "Amalia Graham",
+        "courseFee": "$126.77",
+        "view": 4.2,
+        "img": "https://i.ytimg.com/vi/w7ejDZ8SWv8/maxresdefault.jpg"
+    },
+    {
+        "_id": "615aae109c16ee10904adf72",
+        "courseName": "Web Development course",
+        "authorName": "Sherri Sharpe",
+        "courseFee": "$114.34",
+        "view": 4.3,
+        "img": "https://www.eshikhon.com/wp-content/uploads/2019/11/Web-Development.png"
+    },
+    {
+        "_id": "615aae10d05a785d2db084fb",
+        "courseName": "Artificial Intelligence",
+        "authorName": "Macias Tate",
+        "courseFee": "$123.67",
+        "view": 5.9,
+        "img": "https://i.ytimg.com/vi/sp_OMFCfGMw/maxresdefault.jpg"
+    },
+    {
+        "_id": "615aae10c1d5be69244b0e48",
+        "courseName": "Data structure & Algorith",
+        "authorName": "Cara Horn",
+        "courseFee": "$136.89",
+        "view": 3.9,
+        "img": "https://ccweb.imgix.net/https%3A%2F%2Fd3f1iyfxxz8i1e.cloudfront.net%2Fcourses%2Fcourse_image%2F9e71041800f9.png?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-3.3.0&w=535&s=1c00a1c7823bc4ecfad789d7fe052c3c"
+    }
+]
